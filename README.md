@@ -9,4 +9,5 @@ Experimenting with [pyray](https://github.com/ryu577/pyray) in the browser using
 ## Installation
 
 Install the requirements: ``` pip install -r requirements.txt```
+
 Run the app with an ASGI server: ```<uvicorn/hypercorn/daphne> app:app```
